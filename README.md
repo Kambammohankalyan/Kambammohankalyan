@@ -1,7 +1,7 @@
 # Hi there, I'm Mohan! 👋
 
 ### 🚀 Software Engineer & AI Developer
-M.Tech Scholar at **NIT Raipur** with a strong foundation in **Full Stack Development** and **Generative AI**.
+M.Tech Scholar at **NIT Raipur** with a strong foundation in **Full Stack Development** and **AI/ML**.
 I specialize in building scalable web applications and deploying intelligent AI agents.
 
 - 🔭 **Current Focus:** Building production-ready **AI Agents & Multi-Modal Systems**
