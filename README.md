@@ -6,7 +6,7 @@ I specialize in building scalable web applications and deploying intelligent AI 
 
 - 🔭 **Current Focus:** Building production-ready **AI Agents & Multi-Modal Systems**
 - 💼 **Open to Work:** Software Engineer / Full Stack Developer / AI Engineer roles
-- 💬 **Ask me about:** MERN Stack, System Design, and LLM Orchestration
+- 💬 **Ask me about:** MERN Stack, AI/ML.
 - 📫 **Contact:** kambammohankalyan@gmail.com
 
 ---
